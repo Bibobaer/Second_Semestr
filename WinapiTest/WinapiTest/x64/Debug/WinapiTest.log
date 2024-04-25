@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(140,23): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(141,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(142,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(144,21): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(145,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(146,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(148,21): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(149,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(150,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(165,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(165,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(164,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(164,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(171,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(171,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(170,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(170,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(177,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(177,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(176,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(176,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\source\repos\WinapiTest\WinapiTest\main.cpp(113): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  WinapiTest.vcxproj -> C:\Users\gilya\source\repos\WinapiTest\x64\Debug\WinapiTest.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\gilya\source\repos\Calc_and_Test\Calc_and_Test\main.c(26,2): warning C4305: функция: усечение из "double" в "float"
+C:\Users\gilya\source\repos\Calc_and_Test\Calc_and_Test\main.c(28,2): warning C4305: функция: усечение из "int" в "float"
+C:\Users\gilya\source\repos\Calc_and_Test\Calc_and_Test\main.c(28,2): warning C4307: "-": переполнение целой константы со знаком
+  Calc_and_Test.vcxproj -> C:\Users\gilya\source\repos\Calc_and_Test\x64\Debug\Calc_and_Test.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

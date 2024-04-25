@@ -1,0 +1,3 @@
+With_Bot = 1
+With_Music = 1
+With_Texture = 0

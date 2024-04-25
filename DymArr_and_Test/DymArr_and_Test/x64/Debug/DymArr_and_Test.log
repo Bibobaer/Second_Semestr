@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(7,12): warning C4098: TestAdd: функция типа "void", возвращающая значение
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(13,28): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(23,12): warning C4098: TestTimeSort: функция типа "void", возвращающая значение
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(46,12): warning C4098: TestCorectSort: функция типа "void", возвращающая значение
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(75,27): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(76,27): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(80,31): warning C4307: "+": переполнение целой константы со знаком
+C:\Users\gilya\source\repos\DymArr_and_Test\DymArr_and_Test\main.c(80,62): warning C4307: "+": переполнение целой константы со знаком
+  DymArr_and_Test.vcxproj -> C:\Users\gilya\source\repos\DymArr_and_Test\x64\Debug\DymArr_and_Test.exe
